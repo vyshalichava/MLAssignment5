@@ -102,3 +102,7 @@ PPO: In complex environments like Atari games, where the state space is continuo
 Q-Learning: Simple, interpretable, and effective for small environments.
 PPO: Sophisticated, scalable, and better suited for high-dimensional environments.
 By comparing the results of these two algorithms, it is evident that while Q-Learning is simpler and more interpretable, PPO offers superior performance for larger, more complex tasks.
+<br/>
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/8f6d39de-f4a6-4aa3-bfe1-59acb91880e5">
+<br/>
