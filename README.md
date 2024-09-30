@@ -8,7 +8,7 @@ Train both agents, tune their hyperparameters, and evaluate their performance ba
 Compare the results by visualizing the average rewards for both agents over time.
 
 
-**Q-Learning Algorithm**
+**Q-Learning Algorithm** <br/>
 **Overview:**
 Q-Learning is a model-free RL algorithm that learns the optimal policy for an agent by updating a Q-value table based on state-action pairs. The agent interacts with the environment, selects actions based on an exploration-exploitation tradeoff, and updates its Q-values according to the rewards received.
 
@@ -50,8 +50,8 @@ For each combination of hyperparameters, the agent's average reward is computed 
 The best combination of hyperparameters yields the highest average reward. The Q-Learning algorithm efficiently learns a policy that maximizes rewards by iterating over many episodes, demonstrating how the agent adapts its strategy based on feedback from the environment.
 
 
-**Proximal Policy Optimization (PPO):
-Overview:**
+**Proximal Policy Optimization (PPO):**<br/>
+Overview:
 PPO is an advanced policy-gradient algorithm designed to optimize the agent's policy while maintaining stability during training. It improves the policy in small steps to avoid drastic changes, ensuring a stable learning process.
 
 **Key Components:**
