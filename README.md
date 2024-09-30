@@ -82,7 +82,7 @@ The training process involves multiple episodes, where the agent collects experi
 **Results:**
 The PPO agent's performance is monitored by logging total rewards over each episode. The agent gradually improves its policy, learning to maximize the cumulative reward over time.
 
-**Output:**
+**Output:**<br/>
 <img width="459" alt="image" src="https://github.com/user-attachments/assets/f5f87148-e373-4a4e-937d-beac11d72771">
 
 **Comparison: Q-Learning vs. PPO**
